@@ -1,6 +1,6 @@
 # ifood
+![image](https://github.com/user-attachments/assets/7099631d-934d-45c4-af12-2c3be5a7717f)
 <h1>POC para regras de turnos</h1>
-![image](https://github.com/user-attachments/assets/9ba2cdd9-5ae9-41b1-bd81-26d676cafa47)
 <h3>Requisitos:</h3>
 <ul>
   <li>1. Python 3.12 ou superior instalado</li>
